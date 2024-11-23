@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
@@ -28,13 +28,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Annbpiu/Annbpiu/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <!--
 **Annbpiu/Annbpiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
